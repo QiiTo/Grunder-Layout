@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: burlywood;
+}
+
+article,
+footer {
+    background-color: beige
+}
+main{
+    display: flex;
+    gap: 8px;
+   
+}
+
+a {
+    color: white;
+    background-color: brown;
+}
+
+a:hover{
+    background-color: orange;
+}
