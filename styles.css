@@ -7,17 +7,18 @@ article,
 footer {
     background-color: beige
 }
-main{
+
+main {
     display: flex;
     gap: 8px;
-   
+
 }
 
 a {
     color: white;
-    background-color: brown;
+    background-color: rgb(230, 172, 100);
 }
 
-a:hover{
-    background-color: orange;
+a:hover {
+    background-color: rgb(254, 192, 112);
 }
